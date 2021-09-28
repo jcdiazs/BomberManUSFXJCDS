@@ -142,14 +142,17 @@
     <ClCompile Include="Bomber.cpp" />
     <ClCompile Include="Enemigo.cpp" />
     <ClCompile Include="Explosion.cpp" />
-    <ClCompile Include="Poderes.cpp" />
+    <ClCompile Include="GameActor.cpp" />
+    <ClCompile Include="GameDirecctions.cpp" />
+    <ClCompile Include="GameObject.cpp" />
     <ClCompile Include="principal.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Bomber.h" />
     <ClInclude Include="Enemigo.h" />
     <ClInclude Include="Explosion.h" />
-    <ClInclude Include="Poderes.h" />
+    <ClInclude Include="GameActor.h" />
+    <ClInclude Include="GameObject.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
