@@ -142,7 +142,6 @@
     <ClCompile Include="Bomber.cpp" />
     <ClCompile Include="Enemigo.cpp" />
     <ClCompile Include="Explosion.cpp" />
-    <ClCompile Include="Muro.cpp" />
     <ClCompile Include="Poderes.cpp" />
     <ClCompile Include="principal.cpp" />
   </ItemGroup>
@@ -150,7 +149,6 @@
     <ClInclude Include="Bomber.h" />
     <ClInclude Include="Enemigo.h" />
     <ClInclude Include="Explosion.h" />
-    <ClInclude Include="Muro.h" />
     <ClInclude Include="Poderes.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
